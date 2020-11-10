@@ -10,7 +10,7 @@
 </p>
 <h2> Installation </h2>
 <p>
-    This project was built with yarn. To use npm, delete the yarn.lock file in the client / e server / directory and type the npm install command in the / shell terminal.
+    This project was built with yarn. To use npm, delete the yarn.lock file in the client/ e server/ directory and type the npm install command in the terminal.
 </p>
 <ol>
     <li> Clone the repository on your machine </li>
